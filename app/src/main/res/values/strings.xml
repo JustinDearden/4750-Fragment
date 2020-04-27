@@ -1,11 +1,20 @@
 <resources>
     <string name="app_name">Tour Guide</string>
 
-    <string name="MainFragmentTitle">MAIN TITLE</string>
-    <string name="lable_move_fragment01">fragmenttransaction</string>
-    <string name="lable_move_fragment02">fragmenttransaction</string>
-    <string name="lable_move_fragment03">fragmenttransaction</string>
-    <string name="lable_in_mainfragment">fragmenttransaction</string>
-    <string name="Fragment01Title">TITLE</string>
+    <!-- List of  the locations for  the top fragment -->
+    <string-array name="location_list">
+        <item>Ambassador Bridge</item>
+        <item>Adventure Bay Water Park</item>
+        <item>Caesars Windsor</item>
+        <item>Dieppe Gardens</item>
+    </string-array>
+
+    <!-- Descriptions for the locations -->
+    <string-array name="location_description">
+        <item>The Ambassador Bridge is a tolled suspension bridge across the Detroit River that connects Detroit, Michigan, United States, with Windsor, Ontario, Canada. It is the busiest international border crossing in North America in terms of trade volume, carrying more than 25% of all merchandise trade between the United States and Canada.</item>
+        <item>Adventure Bay Family Water Park gives you over 35,000 square feet of wild water adventures. Features include: 5 giant waterslides including the Python, the Whizzard, and the Master Blaster water rollercoaster FlowRider Wave Pool Activity Pool Lazy River Tot Loch Splash Zone with water tipping bucket Many water play features - bubbling jets, mini cannon, tipping cones, and kiddie bungee swings Cannon Cove dry play place</item>
+        <item>Bet on lots of excitement at Ontarios premier gaming complex featuring more than 80 table games, 3,300 slots and tournament series.</item>
+        <item>Dieppe Gardens are named in memory of the many members of the Essex-Kent Scottish Regiment who lost their lives during the World War II landing at Dieppe, France in 1942. The park is heavily planted with brilliantly coloured annuals and perennials. It features many monuments, including monuments to the Canadian Army, Navy and Air Force.</item>
+    </string-array>
 
 </resources>
